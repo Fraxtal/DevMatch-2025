@@ -32,9 +32,10 @@ Before running the project, ensure you have:
 
 ## 🛠️ Installation
 
-**Clone the repository an run in developer mode**
+**Clone the repository and run in developer mode**
    ```sh
    git clone https://github.com/Fraxtal/DevMatch-2025.git
 
    cd webapp && npm install && npm run dev
+
 
