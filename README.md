@@ -2,7 +2,7 @@
 
 ## 📚 Description
 
-An application that aims to deliver a transparent, financially rewarding, and spam-resistant platform. We do this by combining blockchain-based voting, stake-weighted credibility, and tokenized rewards to ensure that quality discussions rise to the top.
+An application that aims to deliver a transparent, financially rewarding and spam-resistant platform. We do this by combining blockchain-based voting, stake-weighted credibility, and tokenized rewards to ensure that quality discussions rise to the top.
 
 
 ## 🚀 Problem Statement
@@ -47,6 +47,7 @@ Before running the project, ensure you have:
    git clone https://github.com/Fraxtal/DevMatch-2025.git
 
    cd webapp && npm install && npm run dev
+
 
 
 
