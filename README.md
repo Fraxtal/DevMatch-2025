@@ -46,7 +46,8 @@ Before running the project, ensure you have:
    ```sh
    git clone https://github.com/Fraxtal/DevMatch-2025.git
 
-   cd webapp && npm install && npm run dev
+    npm install && npm run dev
+
 
 
 
